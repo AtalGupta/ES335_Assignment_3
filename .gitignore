@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.claude
+KAGGLE_SETUP_INSTRUCTIONS.md 
+ES335 Assignment 3.pdf 
+main.py 
+.python-version 
+pyproject.toml 
+uv.lock 
+efficientnet_b0_mnist_finetuned.pth 
+model 
+data 
+q1_kaggle.ipynb 
+q1_natural_lang.ipynb 
+Q1_README.md 
+q1.ipynb 
+q1_paul_graham.ipynb 
+
