@@ -8,7 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
-.claude
+
 KAGGLE_SETUP_INSTRUCTIONS.md 
 ES335 Assignment 3.pdf 
 main.py 
